@@ -1,0 +1,23 @@
+# Logs
+*.log
+
+# Config directory (user-specific)
+.pimpmyparrot/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Test files
+test/
+*.test
+
+# Old installer (if you want to keep only pimpmyparrot.sh)
+# pentest_tools_installer.sh
